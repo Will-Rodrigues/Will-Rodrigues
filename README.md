@@ -7,8 +7,6 @@
 
 :books: I’m currently learning Python
 
-💞️ I’m looking to collaborate on automatization
-
 📫 How to reach me -> williamgabriel.rl@gmail.com
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Will-Rodrigues)](https://github.com/Will-Rodrigues)
